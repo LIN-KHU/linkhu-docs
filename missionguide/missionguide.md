@@ -92,4 +92,4 @@
   </br>
 
 ### 다음 단계로
-- [문서](missionguide/missionguide2.md)를 참고하여 리뷰를 진행한다.
+- [문서](missionguide2.md)를 참고하여 리뷰를 진행한다.

@@ -20,4 +20,4 @@ ex) git push origin step1
 Linkhu에 보낸 PR은 자신이 fork 한 repository 의 commit 을 반영해주기 때문에 자신의 repository stepX 브랜치로 commit 하면된다.
 
 ### 2. 다음 미션 진행
-리뷰를 몇 번 주고 받은 후 리뷰어가 Approve 해서 merge 한다면 [다음 단계](missionguide/missionguide3.md)를 따라간다.
+리뷰를 몇 번 주고 받은 후 리뷰어가 Approve 해서 merge 한다면 [다음 단계](missionguide3.md)를 따라간다.
