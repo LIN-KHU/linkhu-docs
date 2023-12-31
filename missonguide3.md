@@ -64,7 +64,7 @@ ex) git rebase upstream/javajigi
 - checkout 명령으로 새로운 브랜치를 생성한 후의 상태는 다음과 같다.
 ![image](https://github.com/LIN-KHU/linkhu-docs/assets/103228463/13237b43-0bde-442b-abfb-7594fa4d8ce8)
 
-### 5.
+### 5.다음 단계 미션 진행
 다음 단계 미션을 1단계 과정을 통해 반복한다.
 
 
