@@ -6,7 +6,7 @@
 
 ### 공통
 
-- [미션 진행 및 제출 방법](./missionguide.md)
+- [미션 진행 및 제출 방법](missionguide/missionguide.md)
 - [코드 리뷰 진행 방법](./codereview.md)
 
 ### BE
