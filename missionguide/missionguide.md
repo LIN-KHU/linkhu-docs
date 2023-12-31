@@ -32,12 +32,18 @@
   3-1. `https://github.com/{본인 계정}/{레포지토리 이름}.git` 형태로 클립보드에 복사됩니다.
   3-2. 명령어를 통해 자신의 컴퓨터로 레포지토리를 클론합니다.
   ```bash
-  git clone https://github.com/{본인 계정}/java-boss-monsters.git
+  git clone https://github.com/{본인 계정}/java-racing-car.git
   ```
   3-3. 클론된 디렉토리로 이동합니다.
   ```bash
   cd {디렉토리 명}
   ```
+
+  3-4. 브랜치를 만들고 해당 브랜치로 checkout 합니다.
+  ```bash
+  git checkout -b {깃허브 아이디}
+  ```
+
 ---
 
 ### 미션 진행중
