@@ -30,7 +30,7 @@
   </br>
   
   3-1. `https://github.com/{본인 계정}/{레포지토리 이름}.git` 형태로 클립보드에 복사됩니다.
-  3-2. 명령어를 통해 자신의 컴퓨터로 레포지토리를 클론합니다.
+  아래 명령어를 통해 자신의 컴퓨터로 레포지토리를 클론합니다.
   ```bash
   git clone https://github.com/{본인 계정}/java-racing-car.git
   ```
